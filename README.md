@@ -1,2 +1,2 @@
 # CityBlue
-Swrvice and support page
+Service and support page
